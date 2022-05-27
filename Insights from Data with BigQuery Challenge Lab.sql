@@ -134,7 +134,7 @@ LIMIT 10
 
 --!!!!!
 -- NEEDS TO LEARN 
--- LAG function
+-- LEAD function
 --!!!!!
 --TASK-9
 --/*
